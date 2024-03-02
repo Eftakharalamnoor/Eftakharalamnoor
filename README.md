@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Eftakhar NOOR
-#### Web Developer
+#### Full Stack Web Developer
 I have been involved in this Web Design and Development field for
-4 years. Daily I am increasing my skill by learning something New.
+6 years. Daily I am increasing my skill by learning something New.
 
-Skills: HTML / CSS / Bootstrap / Javascript / PHP
+Skills: HTML / CSS / Bootstrap / Tailwind / Javascript / React / Redux / NodeJs / ExpressJs / MongoDB / Docker / Amazon Aws 
 
 
 
