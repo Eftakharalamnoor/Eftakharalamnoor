@@ -3,7 +3,39 @@
 I have been involved in this Web Design and Development field for
 6 years. Daily I am increasing my skill by learning something New.
 
-Skills: HTML / CSS / Bootstrap / Tailwind / Javascript / React / Redux / NextJs / NodeJs / ExpressJs / MongoDB / Docker / Amazon Aws 
+Skills: HTML / CSS / Bootstrap / Tailwind / Javascript / React / Redux / NextJs / NodeJs / ExpressJs / MongoDB / TypeScript / Prisma / NestJS / Docker / Amazon Aws                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
