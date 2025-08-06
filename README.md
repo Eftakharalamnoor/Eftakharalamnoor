@@ -76,7 +76,4 @@
   <a href="https://www.linkedin.com/in/eftakhar-noor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff" /></a>
 </p>
 
----
-
-⭐️ *Feel free to fork this README and customize it as you like!*
 
